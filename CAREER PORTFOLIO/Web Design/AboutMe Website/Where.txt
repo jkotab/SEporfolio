@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+	<style>
+body {
+  background-color: lightblue;
+}
+.lowcountry {
+  border: 2px solid #000066;
+  padding: 10px;
+  background-color: #e6ffff;
+}
+.piedmont {
+  border: 2px solid #4d0000;
+  padding: 10px;
+  background-color: #ffe6e6;
+}
+.pic {
+  border: 2px solid #666600;
+  padding: 10px;
+  background-color: #ffffe6;
+
+}
+	</style>
+<body>
+	<head>
+		<title> Location, Location, Location! </title>
+	</head>
+	<div class="lowcountry">
+		<h3> "I'm from Carolina. It'll always be my home. . . No matter where I wander, no matter where I roam",  -Sol Driven Train </h3>
+		<p> I was born in Charleston, South Carolina. I lived the first 5 years of my life on James Island, and for many of my teenage and young adult years loved this place dearly. For a year I ended up working on Joseph Field's Farm, a 50-acre organic vegetable farm, which wasn't too far from my childhood house on James Island. The memories of that year were most sweet, and it reminds me of the few things I loved culturally about the lowcountry. <br> Many people think of southern belles, beautiful beaches, and fried chicken, watermelons, and sweet tea, among other southern comfort foods, when they imagine the South. The song I quoted in this section's title even goes, "We've got oysters in the winter, peaches in the spring, blackberries in the summer, and in fall we've got collard greens". The idyllic pictures we paint are often not the case. The lowcountry, while full of natural beauty, left much to be desired when it came to the people. My later childhood was spent in the poor neighborhoods, where trashed, abandoned lots, police brutality (of which I was the receiver far too often), and low-minded impoverished people's eeked out a living. The wealthier classes demonstrated more sophistication, but not much more character or true aspirations. After my mission, I lived in Summerville, a nearby suburb of Charleston, with my sister who is 18 years my senior. While life in her home was comfortable, I saw many people in the area in the Church failing to live their dreams and settling for mainstream America's "dream". A close family friend remarked of the lowcountry (her family lived there for 4 years), "Everyone seemed so superficial, obsessed with status and possessions, always trying to impress others. And the work-place culture: it sometimes felt like slavery still existed. . . I mean the bosses would often have a slave-holder mentality, awful!"</p>
+
+	</div>
+	<div class="piedmont">
+		<p> 
+Strange to tell, but before my mission I felt an impression to live up in Columbia (an hour and fifteen minutes northwest of Summerville), and I did not heed this prompting until 2.5 years after the mission. Though a little more than a day's bicycle ride (I've done day's rides of this length) from the lowcountry, the culture, while still unmistakeably Southern, was far more bearable in some instances and even enjoyable in more instances. Largely, this is because this is where I belonged. I spent a lot of time with my best friend's the Collins family, especially their oldest son who was fixing up a boat which he lived on. Their youngest son was training to be a professional pilot, and I rode with him in the 2-seater planes a few times. Their middle son actually owned a boat and we'd all go on it from time to time. I remembmer riding my truck into town to make Sacrament meeting and getting this overwhelming feeling like this YSA ward is where I belonged. That summer I planned for my bicycle tour for BeeTheChange (a website-based campaign I created to increase awareness of pollinators, their importance, and what we can do or stop doing to improve their chances), burned many romantic bridges, got a car, began seriously considering my current wife, and made friends with a member of the bishopric who would later open his house to me when I got back from my bicycle tour. I stayed with that family for 6 months and truly understood what it looked like to live a Christ-like life of service. I include some pictures from my time there.  
+		</p>
+	</div>
+	<div class="pic">
+<p>
+Image Descriptions (from left): Joseph Fields Organic Farm (lettuce, kale, collards), Ruckers Pond in St. Matthews, 50+ Year-Old Grape "Tree" in Bamberg, Me Sleeping on Collins Boat, Congaree Dam, Flying with Pilot Friend (below us is a section of Congaree River which separates much of Richland and Lexington Counties)</p>
+<img src="_MG_2939.jpg" alt="Joseph Fields Organic Farm" style="width:300px;height:200px;">
+<img src="betweenfarms2.jpg" alt="St Matthews, SC" style="width:300px;height:200px;">
+<img src="IMG_0779.CR2" alt="Me eating a Muscadine in Bamberg, SC" style="width:300px;height:200px;">
+<img src="kelvin boat.jpg" alt="Collins Boat" style="width:300px;height:200px;">
+<img src="IMG_0709 - Edited.jpg" alt="Columbia Dam" style="width:300px;height:200px;">
+<img src="_MG_2904.jpg" alt="View from Collins Plane" style="width:300px;height:200px;">
+	</div>
+</body>
+</html>

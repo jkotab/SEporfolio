@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+	<style>
+body {
+  background-color: lightblue;
+}
+.1 {
+  border: 2px solid #000066;
+  padding: 10px;
+  background-color: #e6ffff;
+}
+.2 {
+  border: 2px solid #000066;
+  padding: 10px;
+  background-color: #e6ffff;
+}
+
+	</style>
+<body>
+	<head>
+		<title>My Goals</title>
+	</head>
+	<div class="1">
+		<p>I have perhaps too many goals to fit into one life. Many of them involve traveling. For instance, a bicycle tour from Finland to Croatia, along a set of Eastern-European bicycle roads. I would be able to do that with my wife and future children. Another involves cutting through the Appalachian Mountains ultiple times, covering some fifteen southeastern and northeastern states. That would be one I do on my own, as it would be quite challenging. Some long-term goals is to shift my life to being based on money as little as possible, choosing instead a focus on the home economy and base my transactions on the basis of relationship. This is how people lived largely before the "enclosure(s) of the commons", which greatly reduced people's access to land. Once personal access to land (and the ability to keep corporate/government entities out) is lost, a large portion of independence is lost. Historically, those who have lost land access will end up falling into a money-heavy and occupation-obsessed culture which in my opinion stands as an obstacle to pure living. Money was still a factor of course prior to the "enclosure(s)", but it was not at the forefront of the culture. Take for example a situation where land is acquired, a house is built from locally-sourced materials, including straw, clay, timber, etc. and is thus relatively cheap. It would be less than 1000 sq. ft. and may even be an "earth-berm house" which greatly reduces variable costs such as heating and cooling. Much of one's food could be grown on-site, and relationships with neighbors who also do some farming and gardening would facilitate variety of foods to eat via neighborly sharing. For things like medical-savings (for very late in life, I'm willing to wager), property tax, and the few niceties (like modern technology items/repairs) which a small-town economy could not procure locally, a part-time (10-15hr) job in something such as computer programming would keep one in the home and entrenched in a relationship-based, rather than money-based, lifestyle. I am even okay with going without a vehicle from time to time throughout the decades following getting established in a lifestyle such as the one described above. Other long-term goals are to assist with Native-American people and help them to re-establish many tenents of their pre-American-Colonialism lifestyle. There are dozens of tribal-lead organiations that are working towards just that. For many years I have felt a desire to place them "upon my shoulders" in carrying them "home to the lands of their possession" as it says in the scriptures.   </p>
+<p> Rather than just tell some of my goals, I'd like to show a few as well. I have long been passionate about photography, and consider myself quite skilled. Here are some samples of my work. I have a goal to greatly improve my skills and enlarge my "best works" portfolio, especially in the realm of entomology. Many of these pictures are from my BeeTheChange bicycle tour. 
+	</div>
+	<div class = "2">
+
+		<p>From Left: Skipper Moth on Zinnia. Santee, SC; Banardsville looking South; Title: Shack by the Sea. Location: Yachats, Oregon on the US101; Title: Franklin Pastoral. Location: Franklin, North Carolina; Title: Intoxication (Honeybee on Poppy). Location: Oakland LDS Temple Grounds; <br>
+			 <img src="Skipper" alt="Skipper Moth. Santee, SC" style="width:600px;height:380px;">
+			<img src="IMG_1140" alt="Barnardsville looking South" style="width:400px;height:280px;">
+			<img src="Shack by the Sea" alt="Yachats, Oregon on the US101" style="width:400px;height:280px;">
+			<img src="Franklin Pastoral" alt="Franklin, NC Countryside at Sunset" style="width:400px;height:280px;">
+			<img src="poppy1" alt="Title: Intoxication. Location: Oakland LDS Temple Grounds" style="width:200px;height:400px;">
+</p>
+
+	</div>
+</body>
+</html>
