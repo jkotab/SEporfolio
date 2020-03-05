@@ -1,0 +1,40 @@
+<html>
+
+    <head>
+        <script>
+       <meta charset="utf-8">
+           <link rel="stylesheet" href=src="https://code.jquery.com/qunit/qunit-2.9.2.js">
+
+        </script>
+    </head>
+    
+<body>
+    <h2>Convert Fahrenheit to Celcius</h2>
+    <p>Input a temperature in Fahrenheit <button onclick="myFunction()">Click and Enter Here</button>
+    <p id="demo"></p>
+    
+    <script src=src="https://code.jquery.com/qunit/qunit-2.9.2.js"></script>
+
+    <script>
+    function  myFunction() {
+    var txt;
+    var celcius;
+    var fahrenheit = prompt("Enter", " ");
+    celcius = FtoC(fahrenheit);
+    
+    document.getElementById("demo").innerHTML = celcius;
+    }
+        
+     function FtoC (f) {
+        var c = (f - 32) * (5/9);
+        return c;
+        }  
+    </script>
+    <script>
+        QUnit.text("FtoC Test", function( assert ) {
+        var f = 212;
+        assert.equals(100, FtoC(f), "Function FtoC works properly")
+    })
+    </script>
+</body>
+</html>
